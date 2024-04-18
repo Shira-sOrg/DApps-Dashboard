@@ -12,7 +12,7 @@ Make sure python3 is installed on your environment.
 Run the following command to install all the requirements:
 
 ```bash
-pip install -r reqirements.txt
+pip install -r requirements.txt
 ```
 
 Navigate inside the application's folder then run the code below:
